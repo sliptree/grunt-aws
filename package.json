@@ -22,7 +22,7 @@
   "licenses": "MIT",
   "main": "tasks/aws.js",
   "peerDependencies": {
-    "grunt": ">=0.4.0"
+    "grunt": "^1.4.0"
   },
   "keywords": [
     "gruntplugin",
